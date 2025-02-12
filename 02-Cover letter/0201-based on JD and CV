@@ -1,0 +1,65 @@
+You are currently working as a [your current role] in the [your current industry] industry and you are applying for this [role you are applying for] position at [company]. Write an attention grabbing cover letter that highlights your experience and qualifications in a way that shows you can successfully take on the challenges of [the role you are applying for] role. Ask for my resume text next. After you get my resume text, ask for job description for role I am applying for. Please analyze my resume text and the job description and then write the cover letter.
+
+
+Act like an experienced job hunting coach. Generate a Cover Letter based on the information about the {Position Name}, {Company Name}, {Company Description}, {Position Responsibilities}, {Position Requirements}, {Position Seniority}. Present your response as a plain text Cover Letter. Make sure the Cover Letter is specific to the particular job description provided.
+{Position Name}:
+{Company Name}:
+{Company Description}:
+{Position Responsibilities}:
+{Position Requirements}:
+{Position Seniority}:
+
+
+✴️ Introduction & Expression of Interest
+Prompt: “Compose a strong introduction and expression of interest for a cover letter for this job that I’m applying to: [Paste Job Description]”
+✴️ Skills and Experience Summary
+Prompt: “Summarize my skills and experience relevant to this job that I’m applying to, showcasing my qualifications and background. Here’s job description: [Paste Job Description]. Here's my resume: [Paste Resume].”
+✴️ Match your skills to job requirements.
+Prompt: “Explain how my professional skills match the requirements for a job I’m applying for. Here’s job description: [Paste Job Description]. Here's my resume: [Paste Resume].”
+✴️ Highlight Your Top Achievement
+Prompt: “Describe my most significant achievement in [relevant field or industry] and explain how it demonstrates my potential for success at the job I’m applying for. Here’s job description: [Paste Job Description]. Here's my resume: [Paste Resume].”
+✴️ Career Gap or Job Switch Explanation
+Prompt: “Explain the reason for my [career gap or job shift] and how my experience during this time has prepared me for the job I’m applying for. Here's my resume: [Paste Resume]. Here’s job description: [Paste Job Description].”
+✴️ Showcasing Willingness to Learn
+Prompt: “Illustrate my adaptability and willingness to learn new skills, emphasizing how these traits make me an excellent candidate for the job I’m applying for. Here's my resume: [Paste Resume]. Here’s job description: [Paste Job Description].”
+✴️ Showcasing industry passion
+Prompt: “Describe my passion for the [industry or field] and how this passion will contribute to my success in the job I’m applying for. Here's my resume: [Paste Resume]. Here’s job description: [Paste Job Description].”
+✴️ Strong work ethic and commitment highlight
+Prompt: “Provide examples of my strong work ethic and commitment to excellence, demonstrating how these qualities make me the right candidate for the job I’m applying for. Here's my resume: [Paste Resume]. Here’s job description: [Paste Job Description].”
+✴️ Highlighting Your Network's Value
+Prompt: “Highlight the value of my professional network within the [industry or field], explaining how it can help me succeed in the job I’m applying for. Here's my resume: [Paste Resume]. Here’s job description: [Paste Job Description].”
+✴️ Company values and culture
+Prompt: “Discuss how my personal values and work style align with [company name]’s culture and values, emphasizing why this makes me an ideal candidate for the [job title] position. Here’s job description: [Paste Job Description].”
+
+
+🔥 Prompt 1: Attention-Grabbing Opening Line
+Create 5 powerful first sentences for a [Job Title] cover letter. Each should use a different hook: question, statistic, achievement, company knowledge, or shared connection. Rank by impact. Suggest how to smoothly transition to the next paragraph. My resume: [Paste Resume]. Job description: [Paste Job Description].
+
+🔥 Prompt 2: Tailored Skills Showcase
+Analyze the [Job Description] and identify top 5 required skills. Write concise statements demonstrating each skill with a specific example. Create a "skills match score" for each. Present in a table format. My resume: [Paste Resume]. Job description: [Paste Job Description].
+
+🔥 Prompt 3: Job-Specific Value Proposition
+Write a compelling paragraph highlighting my unique value for [Job Title] at [Company Name]. Focus on solving a key challenge mentioned in the job posting. Include a "potential impact score" for each point. My resume: [Paste Resume]. Job description: [Paste Job Description].
+
+🔥 Prompt 4: Achievement Story Optimizer
+Select my most relevant accomplishment for [Job Title]. Create 3 versions: data-driven, problem-solving focused, and teamwork-oriented. Each under 75 words. Include an "relevance meter" for the position. My resume: [Paste Resume]. Job description: [Paste Job Description].
+
+🔥 Prompt 5: Career Transition Narrative
+Write a paragraph explaining my shift from [Current Field] to [Target Field]. Emphasize transferable skills and fresh perspectives. Provide a "transition strength" rating for each point. Create a before-and-after skill comparison visual. My resume: [Paste Resume]. Job description: [Paste Job Description].
+
+🔥 Prompt 6: Continuous Improvement Showcase
+Develop a paragraph demonstrating my commitment to learning in [Industry]. Highlight a recently acquired skill and a future learning goal. Link both to company objectives. Include a "growth mindset score". My resume: [Paste Resume]. Job description: [Paste Job Description].
+
+🔥 Prompt 7: Industry Insight Demonstrator
+Write a paragraph showing my [Industry] expertise. Discuss a current trend and its impact on [Company Name]. Propose an innovative idea related to this trend. Include an "industry knowledge depth" rating. My industry observation: [Industry Observation].                                                                                                                                
+
+🔥 Prompt 8: Company Culture Alignment Story
+Write a brief anecdote explaining my fit with [Company Name]'s culture. Use the STAR method. Relate it to a specific company value. Provide 3 versions: collaboration-focused, innovation-driven, and customer-centric. Each under 100 words. My resume: [Paste Resume]. Job description: [Paste Job Description].
+
+🔥 Prompt 9: Strategic Network Leverage
+Create 2-3 sentences highlighting how my professional network could benefit [Company Name]. Focus on potential partnerships, industry insights, or talent acquisition. Include a "network value score". My network highlights: [Network Highlights].
+
+🔥 Prompt 10: Powerful Closing Call-to-Action
+Write 3 different closing paragraphs for [Job Title] application. Each should summarize fit, express enthusiasm, and include a strong call-to-action. Provide a "confidence rating" for each version. Keep under 50 words each. My resume: [Paste Resume]. Job description: [Paste Job Description].🔥 Prompt 8: Company Culture Alignment Story
+
+

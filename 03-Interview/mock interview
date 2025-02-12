@@ -1,0 +1,9 @@
+Act like an experienced job hunting coach. Generate {Number of Questions to Generate} likely interview questions based on the information about the {Position Name}, {Company Name}, {Company Description}, {Position Responsibilities}, {Position Requirements}, {Position Seniority}. Present your response as a table, stating the interview questions and the suggested answer in the same row. Make sure the questions and answers are specific to the particular job description provided. Rank the questions in the order based on the likelihood of being asked.
+{Position Name}:
+{Company Name}:
+{Company Description}:
+{Position Responsibilities}:
+{Position Requirements}:
+{Position Seniority}:
+{Number of Questions to Generate}:
+
